@@ -8,4 +8,4 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 <br/>
 <br/>
 ## Finished so far 🥳 🎊
-- [x] Day 1 - Working with Variables in Python to Manage Data. Project: Band Name Generator ✔️
+- [x] [Day](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day1) 1 - Working with Variables in Python to Manage Data. Project: Band Name Generator ✔️
