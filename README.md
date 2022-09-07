@@ -13,3 +13,4 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 - [Day 3](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%203) - Control Flow and Logical Operators. Project: Treasure Island text Adventure ✔
 - [Day 4](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%204) - Randomisation and Python Lists. Project: Rock Paper Scissors ✔
 - [Day 5](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%205) - Python loops. Project: Password Generator ✔
+- [Day 6](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%206) - Functions and Karel the Robot. Project: Navigating through a Maze ✔
