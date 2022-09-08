@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/hangman_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -38,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Python"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Python&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662465669746</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 6 commit">
+      <created>1662551893102</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662551893102</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +155,7 @@
     <MESSAGE value="Day 3 commit" />
     <MESSAGE value="Day 4 commit" />
     <MESSAGE value="Testing .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing .gitignore" />
+    <MESSAGE value="Day 6 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 6 commit" />
   </component>
 </project>
