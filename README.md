@@ -14,4 +14,5 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 - [Day 4](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%204) - Randomisation and Python Lists. Project: Rock Paper Scissors ✔
 - [Day 5](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%205) - Python loops. Project: Password Generator ✔
 - [Day 6](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%206) - Functions and Karel the Robot. Project: Navigating through a Maze ✔
-- [Day 7](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%206) - Applying what we learned so far with Hangman. Program: Hangman ✔
+- [Day 7](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%207) - Applying what we learned so far with Hangman. Project: Hangman ✔
+- [Day 8](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%208) - Function Parameters and Caesar Cipher. Project: En/De-Coder for Caesar Cipher ✔
