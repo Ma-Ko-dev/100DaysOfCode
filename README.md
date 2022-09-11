@@ -17,3 +17,4 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 - [Day 7](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%207) - Applying what we learned so far with Hangman. Project: Hangman ✔
 - [Day 8](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%208) - Function Parameters and Caesar Cipher. Project: En/De-Coder for Caesar Cipher ✔
 - [Day 9](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%209) - Dictionaries and Nesting. Project: The blind Auction  ✔
+- [Day 10](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%209) - Functions with Outputs. Project: The Calculator ✔
