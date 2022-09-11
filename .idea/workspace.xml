@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 10/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 001/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 001/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 010/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 010/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 010/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 002/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 002/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 003/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 003/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 004/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 004/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 005/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 005/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 006/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 006/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 007/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 007/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 007/hangman_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 007/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 008/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 008/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 008/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 009/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 009/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 9/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 009/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662803162857</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Day 10 commit">
+      <created>1662885900422</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662885900422</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +207,7 @@
     <MESSAGE value="Day 7 commit" />
     <MESSAGE value="Day 8 commit" />
     <MESSAGE value="Day 9 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 9 commit" />
+    <MESSAGE value="Day 10 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 10 commit" />
   </component>
 </project>
