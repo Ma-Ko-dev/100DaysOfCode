@@ -20,7 +20,7 @@ def draw_card(cards_onhand):
 
 
 def set_points(cards_onhand):
-    """ Takes a list of Integers and checks if it has a 11 in it. If theres a 11 it also checks if the total sum
+    """ Takes a list of Integers and checks if it has an 11 in it. If there's an 11 it also checks if the total sum
         would be over 21 and replaces the 11 with an 1 if necessary. Returns the sum of all integers of the list."""
     if 11 in cards_onhand:
         if sum(cards_onhand) > 21:
@@ -34,7 +34,7 @@ def set_points(cards_onhand):
 
 # actual game loop
 while play_game:
-    # setting or resetting variables used in the gameloop
+    # setting or resetting variables used in the game loop
     player_cards = []
     dealer_cards = []
     player_total = 0
@@ -91,7 +91,7 @@ while play_game:
         else:
             while dealer_more:
                 if dealer_total == 21:
-                    # if the dealer has a natural 21, he dont need more cards
+                    # if the dealer has a natural 21, he don't need more cards
                     print("Dealer has 21!\n")
                     dealer_more = False
                 elif dealer_total < 17:
@@ -123,5 +123,5 @@ while play_game:
     # User don't want to play black jack
     else:
         print("Have a nice day!")
-        # setting the gameloop flag to False
+        # setting the game loop flag to False
         play_game = False
