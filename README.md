@@ -19,3 +19,4 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 - [Day 9](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20009) - Dictionaries and Nesting. Project: The blind Auction  ✔
 - [Day 10](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20010) - Functions with Outputs. Project: The Calculator ✔
 - [Day 11](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20011) - The Blackjack Capstone Project ✔
+- [Day 12](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20012) - Scope, Local vs Global, etc. Project: Number Guessing Game ✔

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day 011/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 011/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 012/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 012/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 012/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662983662913</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Typos">
+      <created>1662984748073</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662984748073</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +218,7 @@
     <MESSAGE value="Refactor dir names" />
     <MESSAGE value="README update" />
     <MESSAGE value="Commit Day 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Day 11" />
+    <MESSAGE value="Typos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typos" />
   </component>
 </project>
