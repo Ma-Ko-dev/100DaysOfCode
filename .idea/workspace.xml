@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 014/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 014/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 014/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 014/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663144777595</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Day 13 commit">
+      <created>1663144982450</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663144982450</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +242,7 @@
     <MESSAGE value="Commit Day 11" />
     <MESSAGE value="Typos" />
     <MESSAGE value="Day 12 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 12 commit" />
+    <MESSAGE value="Day 13 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 13 commit" />
   </component>
 </project>
