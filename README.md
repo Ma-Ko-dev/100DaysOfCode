@@ -22,3 +22,4 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 - [Day 12](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20012) - Scope, Local vs Global, etc. Project: Number Guessing Game ✔
 - [Day 13](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20013) - Debugging. How to find and Fix Errors. ✔
 - [Day 14](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20014) - Creating a "Higher - Lower" Game! ✔
+- [Day 15](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20015) - Local Development Enviroment. Project: Coffee Machine ✔

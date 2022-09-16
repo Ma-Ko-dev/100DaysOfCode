@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 015/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 015/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -214,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663235250935</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="README update">
+      <created>1663235314151</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663235314151</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,12 +250,12 @@
     <MESSAGE value="Day 9 commit" />
     <MESSAGE value="Day 10 commit" />
     <MESSAGE value="Refactor dir names" />
-    <MESSAGE value="README update" />
     <MESSAGE value="Commit Day 11" />
     <MESSAGE value="Typos" />
     <MESSAGE value="Day 12 commit" />
     <MESSAGE value="Day 13 commit" />
     <MESSAGE value="Day 14 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 14 commit" />
+    <MESSAGE value="README update" />
+    <option name="LAST_COMMIT_MESSAGE" value="README update" />
   </component>
 </project>
