@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # sonstiges
-sandbox.py
+
+!/sandbox.py
+!/revision.txt
