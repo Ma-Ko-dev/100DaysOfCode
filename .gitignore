@@ -130,5 +130,5 @@ dmypy.json
 
 # sonstiges
 
-!/sandbox.py
-!/revision.txt
+sandbox.py
+revision.txt
