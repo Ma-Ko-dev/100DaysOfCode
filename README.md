@@ -2,7 +2,7 @@
 
 This is the #100DaysOfCode in **Python** Challenge! Let's have some fun and learn something! :)
 
-You can find every day in it's own folder. Have fun exploring! Feel free to leave suggestions to help me improve my code and programming in the future!
+You can find every day in its own folder. Have fun exploring! Feel free to leave suggestions to help me improve my code and programming in the future!
 <br/>
 <br/>
 <br/>
@@ -22,5 +22,6 @@ You can find every day in it's own folder. Have fun exploring! Feel free to leav
 - [Day 12](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20012) - Scope, Local vs Global, etc. Project: Number Guessing Game ✔
 - [Day 13](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20013) - Debugging. How to find and Fix Errors. ✔
 - [Day 14](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20014) - Creating a "Higher - Lower" Game! ✔
-- [Day 15](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20015) - Local Development Enviroment. Project: Coffee Machine ✔
-- [Day 16](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20016) - Object-Oriented Programming. Project: Coffee Machine in OOP ✔ 
+- [Day 15](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20015) - Local Development Environment. Project: Coffee Machine ✔
+- [Day 16](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20016) - Object-Oriented Programming. Project: Coffee Machine in OOP ✔
+- [Day 17](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20017) - More Object-Oriented Programming. Project: The Quiz Project ✔
