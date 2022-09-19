@@ -25,3 +25,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 15](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20015) - Local Development Environment. Project: Coffee Machine ✔
 - [Day 16](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20016) - Object-Oriented Programming. Project: Coffee Machine in OOP ✔
 - [Day 17](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20017) - More Object-Oriented Programming. Project: The Quiz Project ✔
+- [Day 18](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20017) - Turtle & the Graphical User Interface. Project: Art with Turtle ✔
