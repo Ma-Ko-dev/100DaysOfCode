@@ -27,4 +27,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 17](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20017) - More Object-Oriented Programming. Project: The Quiz Project ✔
 - [Day 18](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20018) - Turtle & the Graphical User Interface. Project: Art with Turtle ✔
 - [Day 19](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20019) - Instances, State and Higher Order Functions. Project: Etch-A-Sketch and Turtle Race ✔
-- [Day 20](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20020) - Part 1 of the game "Snake". Animation and Coordinates ✔
+- [Day 20](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20020) - Part 1/2 of the game "Snake". Animation and Coordinates ✔
+- [Day 21](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20021) - Part 2/2 of the game "Snake". Inheritance and List Slicing. ✔
