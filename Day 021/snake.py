@@ -1,4 +1,5 @@
 from turtle import Turtle
+from random import randint
 START_POS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_DIST = 20
 
@@ -21,7 +22,7 @@ class Snake:
            Argument. """
         new_part = Turtle("square")
         new_part.penup()
-        new_part.color("white")
+        new_part.color(self.rand_color())
         new_part.setpos(pos)
         self.snake_parts.append(new_part)
 
@@ -47,3 +48,19 @@ class Snake:
     def right(self):
         """Turns the Snake head by 90 degree to the right. Takes no Argument and returns nothing."""
         self.snake_head.right(90)
+
+    def set_color(self, col):
+        """Sets the color of the last snake part to the color of the last eaten food. Takes a color as Argument and
+           returns nothing."""
+        r = int(col[0][0])
+        g = int(col[0][1])
+        b = int(col[0][2])
+        self.snake_parts[-1].color(r, g, b)
+
+    def rand_color(self):
+        """Creates a random color and returns it."""
+        r = randint(1, 255)
+        g = randint(1, 255)
+        b = randint(1, 255)
+        return r, g, b
+

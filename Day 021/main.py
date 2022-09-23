@@ -14,6 +14,7 @@ screen.tracer(0)
 screen.setup(WIDTH, HEIGHT)
 screen.bgcolor("black")
 screen.title("My Snake Game")
+screen.colormode(255)
 game_on = True
 
 # creating the snake, food and the scoreboard
@@ -34,7 +35,9 @@ while game_on:
 
     # detect collision with food
     if snake.snake_head.distance(food) < 15:
+        # print(type(food.color()))
         snake.extend()
+        snake.set_color(food.color())
         food.refresh()
         score.add_point()
 
