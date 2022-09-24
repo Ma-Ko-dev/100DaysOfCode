@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="Day 22 commit">
+    <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 023/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 023/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 023/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 023/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 023/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 021/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 021/food.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 021/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 021/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 021/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 021/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +51,34 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 023" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 019" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 018" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (3)">
+    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 023" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 023/car.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 020/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 023/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,10 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.car" />
+        <item itemvalue="Python.sandbox" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.sandbox" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663945513155</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Day 21 improvement">
+      <created>1663960084835</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1663960084835</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +470,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Typo" />
     <MESSAGE value="Day 2 commit" />
     <MESSAGE value="Day 3 commit" />
     <MESSAGE value="Day 4 commit" />
@@ -460,6 +494,7 @@
     <MESSAGE value="Day 19 commit" />
     <MESSAGE value="Day 20 commit" />
     <MESSAGE value="Day 21 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 21 commit" />
+    <MESSAGE value="Day 21 improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 21 improvement" />
   </component>
 </project>
