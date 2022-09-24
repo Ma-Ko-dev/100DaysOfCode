@@ -1,4 +1,4 @@
-from turtle import Screen, Turtle
+from turtle import Screen
 from player import Player
 from car import Car
 from scoreboard import Scoreboard
