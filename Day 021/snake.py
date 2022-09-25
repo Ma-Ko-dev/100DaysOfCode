@@ -1,5 +1,6 @@
 from turtle import Turtle
 from random import randint
+
 START_POS = [(0, 0), (-20, 0), (-40, 0)]
 MOVE_DIST = 20
 
@@ -23,6 +24,7 @@ class Snake:
         new_part = Turtle("square")
         new_part.penup()
         new_part.color(self.rand_color())
+        # new_part.color("white")
         new_part.setpos(pos)
         self.snake_parts.append(new_part)
 
@@ -64,3 +66,19 @@ class Snake:
         b = randint(1, 255)
         return r, g, b
 
+    def reset(self):
+        for part in self.snake_parts:
+            part.goto(1000, 1000)
+        self.snake_parts.clear()
+        self.create_snake()
+        self.snake_head = self.snake_parts[0]
+
+    # def moving_color(self, col, index):
+    #     r, g, b = col[0]
+    #     # print(f"{r} {g} {b}")
+    #     self.snake_parts[index].color(int(r), int(g), int(b))
+    #     index += 1
+    #     if index >= len(self.snake_parts):
+    #         pass
+    #     else:
+    #         self.moving_color(col, index)

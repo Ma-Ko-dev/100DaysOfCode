@@ -12,6 +12,7 @@ class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
         self.score = 0
+        self.highscore = 0
         self.color("white")
         self.hideturtle()
         self.penup()
@@ -21,15 +22,34 @@ class Scoreboard(Turtle):
     def add_point(self):
         """Increments the displayed score by 1. Needs no Arguments."""
         self.score += 1
-        self.clear()
         self.update_text()
 
     def update_text(self):
         """Writes the scoretext on top of the screen. Needs no Arguments."""
-        self.write(f"Score: {self.score}", align=ALIGNMENT, font=FONT)
+        self.fun_highscore("read")
+        self.clear()
+        self.write(f"Score: {self.score} High score: {self.highscore}", align=ALIGNMENT, font=FONT)
 
-    def game_over(self):
-        """Writes a red "GAME OVER" text in the middle of the screen. Needs no Arguments."""
-        self.goto(0, 0)
-        self.color("red")
-        self.write("GAME OVER", align=ALIGNMENT, font=FONT)
+    def reset(self):
+        if self.score > self.highscore:
+            self.highscore = self.score
+            self.fun_highscore("write")
+        self.score = 0
+        self.update_text()
+
+    def fun_highscore(self, operation: str):
+        if operation == "read":
+            with open("data.txt", mode="r") as file:
+                self.highscore = int(file.read())
+        elif operation == "write":
+            with open("data.txt", mode="w") as file:
+                file.write(str(self.highscore))
+        else:
+            print("DEBUG: Wrong operation Argument. Use 'read' or 'write'")
+
+
+    # def game_over(self):
+    #     """Writes a red "GAME OVER" text in the middle of the screen. Needs no Arguments."""
+    #     self.goto(0, 0)
+    #     self.color("red")
+    #     self.write("GAME OVER", align=ALIGNMENT, font=FONT)
