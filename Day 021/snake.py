@@ -60,13 +60,15 @@ class Snake:
         self.snake_parts[-1].color(r, g, b)
 
     def rand_color(self):
-        """Creates a random color and returns it."""
+        """Creates a random color and returns it. Takes no Argument."""
         r = randint(1, 255)
         g = randint(1, 255)
         b = randint(1, 255)
         return r, g, b
 
     def reset(self):
+        """Resets the Snake. Meaning it will "remove" the snake from view and emptys the list of Snake parts.
+           Takes no Argument and returns nothing."""
         for part in self.snake_parts:
             part.goto(1000, 1000)
         self.snake_parts.clear()

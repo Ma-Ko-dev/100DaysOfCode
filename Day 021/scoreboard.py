@@ -31,6 +31,7 @@ class Scoreboard(Turtle):
         self.write(f"Score: {self.score} High score: {self.highscore}", align=ALIGNMENT, font=FONT)
 
     def reset(self):
+        """Resets the score text to 0 and updates the Highscore im necessary. Takes no Argument and returns nothing."""
         if self.score > self.highscore:
             self.highscore = self.score
             self.fun_highscore("write")
@@ -38,6 +39,9 @@ class Scoreboard(Turtle):
         self.update_text()
 
     def fun_highscore(self, operation: str):
+        """Reads and Writes the new Highscore value in a file. Takes 1 string argument. "read" to read the Highscore,
+           or "write" to write the new Highscore to a file. Returns nothing. Prints an error message incase the
+           Argument is not recognized."""
         if operation == "read":
             with open("data.txt", mode="r") as file:
                 self.highscore = int(file.read())
