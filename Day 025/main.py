@@ -46,10 +46,10 @@ while running:
         new_csv.to_csv("us-states-game-start/states_to_learn.csv")
         running = False
 
-    # checking for user data
+    # checking the user input
     if not data[data.state == answer_state].empty:
         answer = data[data.state == answer_state]
         guessed.append(answer_state)
-        move_text(answer_state, int(answer.x), int(answer.y))
+        move_text(answer.state.to_string(index=False), int(answer.x), int(answer.y))
 
 screen.exitonclick()
