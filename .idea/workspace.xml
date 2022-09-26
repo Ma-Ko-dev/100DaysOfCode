@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 025/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/data/squirrel_count.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/data/squirrel_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/data/weather_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/squirrel_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/states_to_learn.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 025/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 025/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664096245177</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Day 25 commit">
+      <created>1664189524470</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1664189524470</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -505,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 6 commit" />
     <MESSAGE value="Day 7 commit" />
     <MESSAGE value="Day 8 commit" />
     <MESSAGE value="Day 9 commit" />
@@ -530,6 +525,7 @@
     <MESSAGE value="Day 23 small correction" />
     <MESSAGE value="Day 21 High Score addition" />
     <MESSAGE value="Day 24 commit and Day 21 improvement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 24 commit and Day 21 improvement" />
+    <MESSAGE value="Day 25 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 25 commit" />
   </component>
 </project>

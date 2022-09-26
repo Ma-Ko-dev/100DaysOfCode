@@ -7,12 +7,14 @@ ALIGN = "center"
 
 
 # function
-def move_text(state, x, y):
+def move_text(text: str, x: int, y: int):
+    """This function displays the name of a state and moves it to a specific location. Needs the state name as string
+       and an x and y position as integer. Returns nothing."""
     new_text = turtle.Turtle()
     new_text.penup()
     new_text.ht()
     new_text.goto(x, y)
-    new_text.write(state, align=ALIGN, font=FONT)
+    new_text.write(text, align=ALIGN, font=FONT)
 
 
 # set up the data
