@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="Day 24 commit and Day 21 improvement">
-      <change afterPath="$PROJECT_DIR$/Day 024/Input/Letters/starting_letter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Input/Names/invited_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Gariot.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 024/main.py" afterDir="false" />
+    <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day 025/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/data/squirrel_count.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/data/squirrel_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/data/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/squirrel_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/states_to_learn.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 021/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 021/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 021/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 021/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,40 +49,19 @@
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 025\us-states-game-start" />
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 025" />
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 025\data" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 024" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 023" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 019" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 018" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 023" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 023/car.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 023/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 025/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="squirrel_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 025\squirrel_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.squirrel_data" />
+        <item itemvalue="Python.sandbox" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.car" />
-        <item itemvalue="Python.sandbox" />
       </list>
     </recent_temporary>
   </component>
@@ -486,8 +480,18 @@
       <option name="project" value="LOCAL" />
       <updated>1664092888776</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Day 24 commit and Day 21 improvement">
+      <created>1664096245177</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1664096245177</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -501,7 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Testing .gitignore" />
     <MESSAGE value="Day 6 commit" />
     <MESSAGE value="Day 7 commit" />
     <MESSAGE value="Day 8 commit" />
@@ -526,6 +529,7 @@
     <MESSAGE value="Day 23 commit" />
     <MESSAGE value="Day 23 small correction" />
     <MESSAGE value="Day 21 High Score addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 21 High Score addition" />
+    <MESSAGE value="Day 24 commit and Day 21 improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 24 commit and Day 21 improvement" />
   </component>
 </project>

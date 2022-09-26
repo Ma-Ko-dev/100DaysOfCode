@@ -31,4 +31,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 21](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20021) - Part 2/2 of the game "Snake". Inheritance and List Slicing. ✔
 - [Day 22](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20022) - Building Pong: The famous Arcade Game. ✔
 - [Day 23](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20023) - The "Turtle Crossing" Capstone Project. ✔
-- [Day 24](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20024) - Files, Directories and Paths. Project: Mail Merge ✔ 
+- [Day 24](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20024) - Files, Directories and Paths. Project: Mail Merge ✔
+- [Day 25](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20025) - Working with CSV Data and the Pandas Library. Project: Name the States game.
