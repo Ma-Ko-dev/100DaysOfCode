@@ -31,7 +31,6 @@ screen.setup(width=725, height=491)
 turtle.shape(img)
 running = True
 guessed = []
-to_learn = []
 state_list = data.state.to_list()
 
 while running:
@@ -41,9 +40,7 @@ while running:
 
     # exits the game
     if answer_state == "Exit":
-        for state in state_list:
-            if state not in guessed:
-                to_learn.append(state)
+        to_learn = [state for state in state_list if state not in guessed]
         new_csv = pandas.DataFrame(to_learn)
         new_csv.to_csv(DATA_TO_LEARN)
         running = False
