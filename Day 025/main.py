@@ -4,9 +4,14 @@ import pandas
 # constants
 FONT = ('Arial', 8, 'normal')
 ALIGN = "center"
+IMAGE = "us-states-game-start/blank_states_img.gif"
+DATA_PATH = "us-states-game-start/50_states.csv"
+DATA_TO_LEARN = "us-states-game-start/states_to_learn.csv"
+
+# set up the data
+data = pandas.read_csv(DATA_PATH)
 
 
-# function
 def move_text(text: str, x: int, y: int):
     """This function displays the name of a state and moves it to a specific location. Needs the state name as string
        and an x and y position as integer. Returns nothing."""
@@ -17,13 +22,10 @@ def move_text(text: str, x: int, y: int):
     new_text.write(text, align=ALIGN, font=FONT)
 
 
-# set up the data
-data = pandas.read_csv("us-states-game-start/50_states.csv")
-
 # set up the screen
 screen = turtle.Screen()
 screen.title("U.S. States Game")
-img = "us-states-game-start/blank_states_img.gif"
+img = IMAGE
 screen.addshape(img)
 screen.setup(width=725, height=491)
 turtle.shape(img)
@@ -43,7 +45,7 @@ while running:
             if state not in guessed:
                 to_learn.append(state)
         new_csv = pandas.DataFrame(to_learn)
-        new_csv.to_csv("us-states-game-start/states_to_learn.csv")
+        new_csv.to_csv(DATA_TO_LEARN)
         running = False
 
     # checking the user input

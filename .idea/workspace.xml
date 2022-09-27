@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 025/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 025/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 025/us-states-game-start/states_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Day 025/us-states-game-start/states_to_learn.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.sandbox">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.sandbox" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.squirrel_data" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (1)" />
@@ -492,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664189759178</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Day 25 small improvement">
+      <created>1664203637747</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1664203637747</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -510,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 8 commit" />
     <MESSAGE value="Day 9 commit" />
     <MESSAGE value="Day 10 commit" />
     <MESSAGE value="Refactor dir names" />
@@ -535,6 +539,7 @@
     <MESSAGE value="Day 24 commit and Day 21 improvement" />
     <MESSAGE value="Day 25 commit" />
     <MESSAGE value="Day 25 additional comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 25 additional comments" />
+    <MESSAGE value="Day 25 small improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 25 small improvement" />
   </component>
 </project>
