@@ -34,4 +34,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 24](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20024) - Files, Directories and Paths. Project: Mail Merge ✔
 - [Day 25](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20025) - Working with CSV Data and the Pandas Library. Project: Name the States game. ✔
 - [Day 26](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20026) - List Comprehension. Project: The NATO Alphabet Converter ✔
-- [Day 27](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20027) - Tkinter, *args, **kwargs and creating GUI Programs. Project: Mile to Kilometers Converter ✔ 
+- [Day 27](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20027) - Tkinter, *args, **kwargs and creating GUI Programs. Project: Mile to Kilometers Converter ✔
+- [Day 28](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20028) - Tkinter and Dynamic typing. Project: the Pomodoro GUI Application ✔
