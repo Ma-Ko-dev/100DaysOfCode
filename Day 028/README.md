@@ -5,4 +5,4 @@ It's day 28 of the 100 Days of Code Challenge! I learned more about tkinter and 
 
 Here is a preview:
 <br/>
-![Preview](https://github.com/Ma-Ko-dev/100DaysOfCode/blob/main/Day%20027/miles2Km.PNG)
+![Preview](https://github.com/Ma-Ko-dev/100DaysOfCode/blob/main/Day%20028/pomopreview.PNG)
