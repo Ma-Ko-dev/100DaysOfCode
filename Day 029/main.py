@@ -12,13 +12,13 @@ DEFAULT_USER = "Gariot"
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def pw_gen():
-    letters = string.ascii_letters
-    numbers = string.digits
-    symbols = string.punctuation
+    """Generates a password by randomly choose letters, numbers and symbols by a random amount. Displays the generated
+       Password in "entry_password" and also copy's it to your clipboard when generated. Takes no Arguments and returns
+       nothing."""
 
-    password_letters = [choice(letters) for _ in range(randint(8, 10))]
-    password_symbols = [choice(symbols) for _ in range(randint(4, 6))]
-    password_numbers = [choice(numbers) for _ in range(randint(4, 6))]
+    password_letters = [choice(string.ascii_letters) for _ in range(randint(8, 10))]
+    password_symbols = [choice(string.punctuation) for _ in range(randint(4, 6))]
+    password_numbers = [choice(string.digits) for _ in range(randint(4, 6))]
 
     password_list = password_letters + password_symbols + password_numbers
     shuffle(password_list)
@@ -30,6 +30,9 @@ def pw_gen():
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save_password():
+    """Saves all password credentials to a file named in PW_FILE. Will check for empty textfields and lets the User
+       doublecheck their inputs. Clears the textfields after successfull saving. Takes no argument and returns
+       nothing."""
     if len(entry_password.get()) == 0 or len(entry_username.get()) == 0 or len(entry_website.get()) == 0:
         messagebox.showinfo(title="Information", message="All fields are required!")
     else:
