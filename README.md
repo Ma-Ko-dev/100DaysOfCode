@@ -38,3 +38,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 28](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20028) - Tkinter and Dynamic typing. Project: the Pomodoro GUI Application ✔
 - [Day 29](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20029) - Building a Password Manager GUI App with Tkinter ✔
 - [Day 30](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20030) - Errors, Exceptions and JSON Data. Project: Improving the Password Manager. ✔
+- [Day 31](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20031) - The Flash Card Capstone Project ✔
