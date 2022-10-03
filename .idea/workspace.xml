@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 031/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/data/french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/flashcard_preview.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 031/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/data/birthdays.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/data/quotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/letter_templates/letter_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/letter_templates/letter_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/letter_templates/letter_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 032/monday-motivation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -48,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 031/data",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "discord-application"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,14 +58,14 @@
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 030" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 032" />
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 032\data" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031\data" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 030" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 029" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sandbox (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 029" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 032" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 029/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 032/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="monday-motivation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 030" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 032" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 030/main.py" />
+      <option name="SCRIPT_NAME" value="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 032\monday-motivation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.sandbox (1)" />
+        <item itemvalue="Python.monday-motivation" />
         <item itemvalue="Python.sandbox" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662183654621</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Testing .gitignore">
-      <created>1662387556376</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1662387556376</updated>
     </task>
     <task id="LOCAL-00007" summary="Testing .gitignore">
       <created>1662387695845</created>
@@ -532,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664623220918</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Day 31 commit">
+      <created>1664708210568</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1664708210568</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -550,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 14 commit" />
     <MESSAGE value="Day 15 commit" />
     <MESSAGE value="Day 16 commit" />
     <MESSAGE value="Day 17 commit and typos" />
@@ -575,6 +575,7 @@
     <MESSAGE value="Day 29 commit" />
     <MESSAGE value="Day 29 comments and improvements" />
     <MESSAGE value="Day 30 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 30 commit" />
+    <MESSAGE value="Day 31 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 31 commit" />
   </component>
 </project>
