@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 032/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/data/birthdays.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/data/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/letter_templates/letter_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/letter_templates/letter_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/letter_templates/letter_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 032/monday-motivation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/images/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/iss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/kanye-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 033/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -43,30 +41,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 031/data",
-    "settings.editor.selected.configurable": "discord-application"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 031/data&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;discord-application&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031\data" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 030" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 033" />
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 033\images" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 032" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 032\data" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="kanye-main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +72,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 031" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 033" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 031/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 033/kanye-main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 033" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 033/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,34 +169,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\sandbox.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.sandbox (1)" />
+        <item itemvalue="Python.kanye-main" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.monday-motivation" />
-        <item itemvalue="Python.sandbox" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662183654621</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Testing .gitignore">
-      <created>1662387695845</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1662387695845</updated>
     </task>
     <task id="LOCAL-00008" summary="Testing .gitignore">
       <created>1662387769106</created>
@@ -533,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664708210568</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Day 32 commit">
+      <created>1664797429353</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1664797429353</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -551,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 15 commit" />
     <MESSAGE value="Day 16 commit" />
     <MESSAGE value="Day 17 commit and typos" />
     <MESSAGE value=".gitignore" />
@@ -576,6 +573,7 @@
     <MESSAGE value="Day 29 comments and improvements" />
     <MESSAGE value="Day 30 commit" />
     <MESSAGE value="Day 31 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 31 commit" />
+    <MESSAGE value="Day 32 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 32 commit" />
   </component>
 </project>
