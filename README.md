@@ -41,3 +41,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 31](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20031) - The Flash Card Capstone Project ✔
 - [Day 32](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20032) - Send Email (smtplib) and Manage Dates (datetime). Project: Automated Birthday Wisher ✔
 - [Day 33](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20033) - API Endpoints & API Parameters. Project: ISS Overhead Notifier ✔
+- [Day 34](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20034) - API Practice. Creating a GUI Quiz App. ✔
