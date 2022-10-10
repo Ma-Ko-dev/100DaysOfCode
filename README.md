@@ -44,4 +44,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 34](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20034) - API Practice. Creating a GUI Quiz App. ✔
 - [Day 35](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20035) - Keys, Authentication & Environment Variables. Project: Send a Rain warning via E-Mail with Python ✔
 - [Day 36](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20036) - Stock Trading News Alert Project ✔
-- [Day 37](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20037) - API Post Requests & Headers. Project: Habit Tracking ✔ 
+- [Day 37](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20037) - API Post Requests & Headers. Project: Habit Tracking ✔
+- [Day 38](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20038) - Project: Workout Tracking Using Google Sheets ✔
