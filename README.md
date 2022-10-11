@@ -46,3 +46,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 36](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20036) - Stock Trading News Alert Project ✔
 - [Day 37](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20037) - API Post Requests & Headers. Project: Habit Tracking ✔
 - [Day 38](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20038) - Project: Workout Tracking Using Google Sheets ✔
+- [Day 39](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20039) - Capstone Project Part 1: Flight Deal Finder. ✔
