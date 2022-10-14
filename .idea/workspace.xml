@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 041/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 041/bugkitty.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 041/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 041/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 041/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 042/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 042/bugkitty.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 042/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 042/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 042/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -44,17 +44,17 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 041",
+    "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 042",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 042" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 041" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 040" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 035" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031\data" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 030" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 039" />
@@ -195,13 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662183654621</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Refactor dir names">
-      <created>1662886282968</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662886282968</updated>
     </task>
     <task id="LOCAL-00017" summary="README update">
       <created>1662886404256</created>
@@ -539,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665570030742</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Day 41 commit">
+      <created>1665652533567</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1665652533567</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -557,7 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 21 improvement" />
     <MESSAGE value="Day 23 commit" />
     <MESSAGE value="Day 23 small correction" />
     <MESSAGE value="Day 21 High Score addition" />
@@ -582,6 +581,7 @@
     <MESSAGE value="Day 38 commit" />
     <MESSAGE value="Day 39 commit" />
     <MESSAGE value="Day 40 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 40 commit" />
+    <MESSAGE value="Day 41 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 41 commit" />
   </component>
 </project>

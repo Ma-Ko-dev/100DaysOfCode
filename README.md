@@ -49,3 +49,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 39](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20039) - Capstone Project Part 1/2: Flight Deal Finder. ✔
 - [Day 40](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20040) - Capstone Project Part 2/2: Flight Deal Finder. ✔
 - [Day 41](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20041) - Web Foundation - Introduction to HTML ✔
+- [Day 42](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20041) - Web Foundation - Intermediate HTML ✔
