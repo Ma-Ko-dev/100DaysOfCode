@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 042/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 042/bugkitty.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 042/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 042/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 042/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 043/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 043/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 043/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 043/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 043/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 043/media/bugkitty.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 028/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 028/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 029/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 029/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 030/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 030/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 031/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 031/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 034/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 034/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 042/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day 042/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,17 +51,17 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 042",
+    "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 043",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 043" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 042" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 041" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 040" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 035" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 031\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 039" />
@@ -195,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662183654621</updated>
-    </task>
-    <task id="LOCAL-00017" summary="README update">
-      <created>1662886404256</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1662886404256</updated>
     </task>
     <task id="LOCAL-00018" summary="Commit Day 11">
       <created>1662983662913</created>
@@ -539,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665652533567</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Day 42 commit">
+      <created>1665735877092</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1665735877093</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -557,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 23 commit" />
     <MESSAGE value="Day 23 small correction" />
     <MESSAGE value="Day 21 High Score addition" />
     <MESSAGE value="Day 24 commit and Day 21 improvement" />
@@ -582,6 +588,7 @@
     <MESSAGE value="Day 39 commit" />
     <MESSAGE value="Day 40 commit" />
     <MESSAGE value="Day 41 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 41 commit" />
+    <MESSAGE value="Day 42 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 42 commit" />
   </component>
 </project>
