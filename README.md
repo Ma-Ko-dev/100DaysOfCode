@@ -51,3 +51,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 41](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20041) - Web Foundation - Introduction to HTML ✔
 - [Day 42](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20042) - Web Foundation - Intermediate HTML ✔
 - [Day 43](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20043) - Web Foundation - Introduction to CSS ✔
+- [Day 44](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20044) - Web Foundation - Intermediate CSS ✔
