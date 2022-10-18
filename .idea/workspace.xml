@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effce514-cd79-4c7b-8e4f-20c8f179b10b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/bugkitty.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/chillies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/computer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/donutface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/CSS - My Site/media/mountain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/HTML - My Site/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/HTML - My Site/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/HTML - My Site/hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/HTML - My Site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/HTML - My Site/media/bugkitty.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 044/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 045/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 045/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -49,15 +36,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 044/CSS - My Site/media",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Users/Mathias Kowitz/Documents/Udemy/100DaysOfCode/Day 044/CSS - My Site/media&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 044\CSS - My Site\media" />
@@ -67,14 +54,14 @@
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 041" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 045" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 044\CSS - My Site\media" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 044\HTML - My Site" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 039" />
       <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 036" />
-      <recent name="F:\Users\Mathias Kowitz\Documents\Udemy\100DaysOfCode\Day 034" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sandbox">
+  <component name="RunManager" selected="Python.main">
     <configuration name="fake_replit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +75,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 040/fake_replit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 022" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 022/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,27 +125,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100DaysOfCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 039" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 039/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 035" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 045" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 035/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 045/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.fake_replit" />
       <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.sandbox" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.sandbox" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.fake_replit" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -205,13 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662183654621</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Typos">
-      <created>1662984748073</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1662984748073</updated>
     </task>
     <task id="LOCAL-00020" summary="Day 12 commit">
       <created>1663071768590</created>
@@ -549,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665828554738</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Day 44 commit">
+      <created>1666006774318</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006774319</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -567,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 21 High Score addition" />
     <MESSAGE value="Day 24 commit and Day 21 improvement" />
     <MESSAGE value="Day 25 commit" />
     <MESSAGE value="Day 25 additional comments" />
@@ -592,6 +578,7 @@
     <MESSAGE value="Day 41 commit" />
     <MESSAGE value="Day 42 commit" />
     <MESSAGE value="Day 43 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 43 commit" />
+    <MESSAGE value="Day 44 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 44 commit" />
   </component>
 </project>
