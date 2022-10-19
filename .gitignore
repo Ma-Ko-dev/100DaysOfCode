@@ -33,6 +33,13 @@ MANIFEST
 *.manifest
 *.spec
 
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -139,3 +146,4 @@ potential_refactor.txt
 /Day 038/credentials.py
 /Day 039/credentials.py
 /Day 040/credentials.py
+/Day 046/credentials.py
