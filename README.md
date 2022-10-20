@@ -53,4 +53,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 43](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20043) - Web Foundation - Introduction to CSS ✔
 - [Day 44](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20044) - Web Foundation - Intermediate CSS ✔
 - [Day 45](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20045) - Web Scraping with Beautiful Soup ✔
-- [Day 46](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20046) - Create a Spotify Playlist using the Musical Time Machine ✔ 
+- [Day 46](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20046) - Create a Spotify Playlist using the Musical Time Machine ✔
+- [Day 47](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20047) - An Amazon Price Tracker ✔
