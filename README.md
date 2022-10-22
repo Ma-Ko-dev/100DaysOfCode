@@ -55,4 +55,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 45](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20045) - Web Scraping with Beautiful Soup ✔
 - [Day 46](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20046) - Create a Spotify Playlist using the Musical Time Machine ✔
 - [Day 47](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20047) - An Amazon Price Tracker ✔
-- [Day 48](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20048) - Selenium Webdriver Browser and Game Playing Bot ✔ 
+- [Day 48](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20048) - Selenium Webdriver Browser and Game Playing Bot ✔
+- [Day 49](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20049) - Automating Job Applications on LinkedIn ✔
