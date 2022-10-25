@@ -58,3 +58,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 48](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20048) - Selenium Webdriver Browser and Game Playing Bot ✔
 - [Day 49](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20049) - Automating Job Applications on LinkedIn ✔
 - [Day 50](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20050) - ~~Auto Tinder Swiping Bot~~ Revisited and improved Day 46 ✔
+- [Day 51](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20051) - Internet Speed Twitter Complaint Bot ✔
