@@ -60,4 +60,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 50](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20050) - ~~Auto Tinder Swiping Bot~~ Revisited and improved Day 46 ✔
 - [Day 51](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20051) - Internet Speed Twitter Complaint Bot ✔
 - [Day 52](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20052) - Instagram Follower Bot ✔
-- [Day 53](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20053) - Web Scraping Capstone - Data Entry Job Automation ✔ 
+- [Day 53](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20053) - Web Scraping Capstone - Data Entry Job Automation ✔
+- [Day 54](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20054) - Introduction to Web Development with Flask ✔
