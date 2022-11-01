@@ -64,3 +64,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 54](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20054) - Introduction to Web Development with Flask ✔
 - [Day 55](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20055) - HTML & URL Parsin in Flask and the Higher Lower Game ✔
 - [Day 56](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20056) - Rendering HTML/Static files Using Website Templates ✔
+- [Day 57](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20057) - Templating with Jinja in Flask Applications ✔
