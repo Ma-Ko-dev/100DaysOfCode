@@ -62,6 +62,7 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 52](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20052) - Instagram Follower Bot ✔
 - [Day 53](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20053) - Web Scraping Capstone - Data Entry Job Automation ✔
 - [Day 54](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20054) - Introduction to Web Development with Flask ✔
-- [Day 55](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20055) - HTML & URL Parsin in Flask and the Higher Lower Game ✔
+- [Day 55](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20055) - HTML & URL Parsing in Flask and the Higher Lower Game ✔
 - [Day 56](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20056) - Rendering HTML/Static files Using Website Templates ✔
 - [Day 57](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20057) - Templating with Jinja in Flask Applications ✔
+- [Day 58](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20058) - Web Foundation Bootstrap 
