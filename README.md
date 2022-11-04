@@ -66,3 +66,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 56](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20056) - Rendering HTML/Static files Using Website Templates ✔
 - [Day 57](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20057) - Templating with Jinja in Flask Applications ✔
 - [Day 58](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20058) - Web Foundation Bootstrap ✔
+- [Day 59](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20059) - Blog Capstone Project ✔
