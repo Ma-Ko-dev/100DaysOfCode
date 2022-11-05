@@ -67,3 +67,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 57](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20057) - Templating with Jinja in Flask Applications ✔
 - [Day 58](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20058) - Web Foundation Bootstrap ✔
 - [Day 59](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20059) - Blog Capstone Project ✔
+- [day 60](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20060) - Make POST Requests with Flask and HTML Forms ✔ 
