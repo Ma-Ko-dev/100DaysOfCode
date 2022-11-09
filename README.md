@@ -69,4 +69,5 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 59](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20059) - Blog Capstone Project ✔
 - [day 60](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20060) - Make POST Requests with Flask and HTML Forms ✔
 - [Day 61](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20061) - Building Advanced Forms with Flask-WTForms ✔
-- [Day 62](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20061) - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project ✔
+- [Day 62](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20062) - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project ✔
+- [Day 63](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20063) - Databases and with SQLite and SQLAlchemy ✔
