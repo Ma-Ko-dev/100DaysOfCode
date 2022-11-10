@@ -27,7 +27,7 @@ db.create_all()
 all_books = db.session.query(Book).all()
 print(all_books)
 
-book = Book.query.filter_by(title="Harry Potter 2").first()
+book = Book.query.filter_by(title="Stummels Tagebuch").first().id
 print(book)
 
 # book_to_update = Book.query.filter_by(title="Harry Potter").first()
