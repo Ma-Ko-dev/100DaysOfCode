@@ -72,3 +72,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 62](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20062) - Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project ✔
 - [Day 63](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20063) - Databases and with SQLite and SQLAlchemy ✔
 - [Day 64](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20064) - My Top 10 Movies Website ✔
+- [Day 65](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20065) - Web Design School - How to Create a Website that People will Love (No Project today) ✔
