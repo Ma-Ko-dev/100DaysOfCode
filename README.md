@@ -74,3 +74,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 64](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20064) - My Top 10 Movies Website ✔
 - [Day 65](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20065) - Web Design School - How to Create a Website that People will Love (No Project today) ✔
 - [Day 66](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20066) - Building Your Own API with RESTful Routing ✔
+- [Day 67](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20068) - Blog Capstone Project Part 3 - RESTful Routing ✔
