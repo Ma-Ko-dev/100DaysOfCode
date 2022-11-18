@@ -78,3 +78,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 68](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20068) - Authentication with Flask ✔
 - [Day 69](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20069) - Blog Capstone Project Part 4 - Adding Users ✔ 
 - [Day 70](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20070) - Deploying Your Web Application with Heroku ✔
+- [Day 71](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20071) - Data Exploration with Pandas: College Major v.s. Your Salary ✔ 
