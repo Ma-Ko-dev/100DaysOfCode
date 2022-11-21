@@ -80,3 +80,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 70](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20070) - Deploying Your Web Application with Heroku ✔
 - [Day 71](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20071) - Data Exploration with Pandas: College Major v.s. Your Salary ✔
 - [Day 72](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20072) - Data Visualisation with Matplotlib: Programming Languages ✔
+- [Day 73](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20073) - Aggregate & Merge Data with Pandas: Analyse the LEGA Dataset ✔
