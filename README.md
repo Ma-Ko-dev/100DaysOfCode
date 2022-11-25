@@ -84,3 +84,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 74](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20074) - Google Trends Data: Resampling and Visualising Time Series ✔
 - [Day 75](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20075) - Beautiful Plotly Charts & Analysing the Android App Store ✔
 - [Day 76](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20076) - Computation with NumPy and N-Dimensional Arrays ✔
+- [Day 77](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20077) - Linear Regression and Data Visualisation with Seaborn ✔ 
