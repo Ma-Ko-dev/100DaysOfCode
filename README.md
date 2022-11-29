@@ -87,3 +87,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 77](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20077) - Linear Regression and Data Visualisation with Seaborn ✔
 - [Day 78](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20078) - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn ✔
 - [Day 79](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20079) - The Tragic Discovery of Handwashing: t-Tests & Distributions ✔
+- [Day 80](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20080) - Capstone Project - Predict House Prices ✔
