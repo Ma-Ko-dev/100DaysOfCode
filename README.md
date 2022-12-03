@@ -88,6 +88,7 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 78](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20078) - Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn ✔
 - [Day 79](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20079) - The Tragic Discovery of Handwashing: t-Tests & Distributions ✔
 - [Day 80](https://github.com/Ma-Ko-dev/100DaysOfCode/tree/main/Day%20080) - Capstone Project - Predict House Prices ✔
-- [Day 81](https://github.com/Ma-Ko-dev/GarryCron) - I started to work on my Portfolio Website and my first Portfolio Project ✔
-- [Day 82](https://github.com/Ma-Ko-dev/GarryCron) - Today i worked on the GUI. I decided to test out QT for the first time since tkinter was a real pain to work with. ✔
-- [Day 83](https://github.com/Ma-Ko-dev/GarryCron) - The GUI Design for my Projects Mainwindow is done so far. Tomorrow begins the actual work on the Features. ✔ 
+- [Day 81](https://github.com/Ma-Ko-dev/MaCron) - I started to work on my Portfolio Website and my first Portfolio Project ✔
+- [Day 82](https://github.com/Ma-Ko-dev/MaCron) - Today i worked on the GUI. I decided to test out QT for the first time since tkinter was a real pain to work with. ✔
+- [Day 83](https://github.com/Ma-Ko-dev/MaCron) - The GUI Design for my Projects Mainwindow is done so far. Tomorrow begins the actual work on the Features. ✔
+- [Day 84](https://github.com/Ma-Ko-dev/MaCron) - I finished the first Prototype today. It works, at least locally, and so far i am more than satisfied ✔
