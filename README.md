@@ -92,3 +92,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 82](https://github.com/Ma-Ko-dev/MaCron) - Today i worked on the GUI. I decided to test out QT for the first time since tkinter was a real pain to work with. ✔
 - [Day 83](https://github.com/Ma-Ko-dev/MaCron) - The GUI Design for my Projects Mainwindow is done so far. Tomorrow begins the actual work on the Features. ✔
 - [Day 84](https://github.com/Ma-Ko-dev/MaCron) - I finished the first Prototype today. It works, at least locally, and so far i am more than satisfied. Next: GUI improvements and additions ✔
+- [DAy 85](https://github.com/Ma-Ko-dev/MaCron) - Reworked the way how the GUI files are handled and started to work on dynamically added elements to the GUI. Which is hard :D ✔
