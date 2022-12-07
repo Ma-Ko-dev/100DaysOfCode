@@ -94,3 +94,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 84](https://github.com/Ma-Ko-dev/MaCron) - I finished the first Prototype today. It works, at least locally, and so far i am more than satisfied. Next: GUI improvements and additions ✔
 - [Day 85](https://github.com/Ma-Ko-dev/MaCron) - Reworked the way how the GUI files are handled and started to work on dynamically added elements to the GUI. Which is hard :D ✔
 - [Day 86](https://github.com/Ma-Ko-dev/MaCron) - Still working on the GUI. But didnt have much time today so yea, no big progress ✔
+- [Day 87](https://github.com/Ma-Ko-dev/MaCron) - Finally worked out the problems i had with the GUI. I also added some functionality like adding a script to the list, made some buttons work etc. ✔
