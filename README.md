@@ -96,3 +96,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 86](https://github.com/Ma-Ko-dev/MaCron) - Still working on the GUI. But didnt have much time today so yea, no big progress ✔
 - [Day 87](https://github.com/Ma-Ko-dev/MaCron) - Finally worked out the problems i had with the GUI. I also added some functionality like adding a script to the list, made some buttons work etc. ✔
 - [Day 88](https://github.com/Ma-Ko-dev/MaCron) - Added the functionality for all buttons and added a theme picker for dark and light mode. ✔
+- [Day 89](https://github.com/Ma-Ko-dev/MaCron) - Added first version of minimalize to the Tray. Also important: The Core features are done. The Program will now run scripts on a schedule. ✔ 
