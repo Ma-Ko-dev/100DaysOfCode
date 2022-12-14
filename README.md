@@ -99,3 +99,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 89](https://github.com/Ma-Ko-dev/MaCron) - Added first version of minimalize to the Tray. Also important: The Core features are done. The Program will now run scripts on a schedule. ✔
 - [Day 90](https://github.com/Ma-Ko-dev/MaCron) - Cleaned up the code a bit, added some documentation, fixed the tray icon, switched the logging back to filemode. ✔
 - [Day 91](https://github.com/Ma-Ko-dev/MaCron) - Added more logging, changed how scripts are called and added 2 semi useful testscripts now. Have to figure out how to handle non-builtin modules tomorrow ✔
+- [Day 92](https://github.com/Ma-Ko-dev/MaCron) - Added some small changes like color theme persistence, tray icon tooltip and that the window comes back to the foreground after minimizing it to tray. ✔
