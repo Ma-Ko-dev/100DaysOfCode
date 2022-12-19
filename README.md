@@ -103,3 +103,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 93](https://github.com/Ma-Ko-dev/MaCron) - Fixed some bugs and added an Alert for when a Script produced an error, added more menu entries, the addDialog now remembers where he got a script the last time, scripts will now run once after they got added, logfile can be opened from MaCron via menu. ✔
 - [Day 94](https://github.com/Ma-Ko-dev/MaCron) - Added lots of small things, fixed some minor bugs and cleaned up the code a bit. Ready for release tomorrow! :D ✔
 - [Day 95](https://github.com/Ma-Ko-dev/MaCron) - MaCron got released. I fixed the last minor bugs and created a nice README for the repository. Feel free to follow the link to MaCron ✔
+- [Day 96](https://github.com/Ma-Ko-dev/MaCron) - Started to work on Multiprocessing for MaCron. I will hopefully finish it tomorrow. In the meantime i added minor changes :) ✔
