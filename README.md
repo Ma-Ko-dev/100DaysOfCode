@@ -104,3 +104,4 @@ You can find every day in its own folder. Have fun exploring! Feel free to leave
 - [Day 94](https://github.com/Ma-Ko-dev/MaCron) - Added lots of small things, fixed some minor bugs and cleaned up the code a bit. Ready for release tomorrow! :D ✔
 - [Day 95](https://github.com/Ma-Ko-dev/MaCron) - MaCron got released. I fixed the last minor bugs and created a nice README for the repository. Feel free to follow the link to MaCron ✔
 - [Day 96](https://github.com/Ma-Ko-dev/MaCron) - Started to work on Multiprocessing for MaCron. I will hopefully finish it tomorrow. In the meantime i added minor changes :) ✔
+- [Day 97](https://github.com/Ma-Ko-dev/MaCron) - I finally added threads to MaCron. That means no more GUI freezing and scripts run parallel. I also release version v1.1.0 and broke v1.0.0 at the same time :D ✔
